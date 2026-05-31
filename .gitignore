@@ -9,3 +9,4 @@ data/raw/*.json
 data/raw/*.dta
 data/raw/*.txt
 data/sample/*.csv
+data/processed/*.csv
