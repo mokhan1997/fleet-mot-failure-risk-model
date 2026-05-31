@@ -255,12 +255,6 @@ This project has the following limitations:
 
 ---
 
-## Current Project Status
-
-**Current stage:** Power BI dashboard, SQL analysis layer, business reports and MOT failure risk model completed.
-
-**Next stage:** Final GitHub review, career package, CV project entry, LinkedIn project description and interview preparation.
-
 ## Reports
 
 The project includes the following written reports:
