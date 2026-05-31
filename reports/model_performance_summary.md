@@ -23,12 +23,12 @@ The model predicts whether a vehicle is likely to fail its MOT.
 
 ## Model Performance
 
-| Metric | Baseline | Logistic Regression |
-|---|---:|---:|
-| Accuracy | 0.820 | 0.577 |
-| Precision | 0.000 | 0.250 |
-| Recall | 0.000 | 0.677 |
-| F1 Score | 0.000 | 0.365 |
+| Metric    | Baseline | Logistic Regression |
+| --------- | -------: | ------------------: |
+| Accuracy  |    0.820 |               0.577 |
+| Precision |    0.000 |               0.250 |
+| Recall    |    0.000 |               0.677 |
+| F1 Score  |    0.000 |               0.365 |
 
 ## Business Interpretation
 
