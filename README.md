@@ -188,19 +188,39 @@ To run this project locally:
 
 ```powershell
 python src/create_mot_sample.py
+```
 
+7. Run the notebooks in order:
+
+```text
 01_data_understanding.ipynb
 02_data_cleaning.ipynb
 03_exploratory_data_analysis.ipynb
 04_mot_failure_risk_model.ipynb
-
-python src/create_sqlite_database.py
-
-python src/run_sql_views.py
-
-python src/export_powerbi_views.py
-
-powerbi/dashboard.pbix
-
-
 ```
+
+8. Create the SQLite database:
+
+```powershell
+python src/create_sqlite_database.py
+```
+
+9. Create SQL views:
+
+```powershell
+python src/run_sql_views.py
+```
+
+10. Export Power BI views:
+
+```powershell
+python src/export_powerbi_views.py
+```
+
+11. Open the Power BI dashboard:
+
+```text
+powerbi/dashboard.pbix
+```
+
+---
