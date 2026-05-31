@@ -224,3 +224,14 @@ powerbi/dashboard.pbix
 ```
 
 ---
+
+## Reports
+
+The project includes the following written reports:
+
+| Report                                                            | Purpose                                                                                    |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Executive Summary](reports/executive_summary.md)                 | Summarises the project purpose, business context, dashboard pages, model and key value     |
+| [Methodology](reports/methodology.md)                             | Explains the end-to-end approach, from data sourcing through to modelling and dashboarding |
+| [Business Recommendations](reports/business_recommendations.md)   | Converts analysis findings into practical fleet maintenance recommendations                |
+| [Model Performance Summary](reports/model_performance_summary.md) | Summarises the logistic regression model, metrics, business interpretation and limitations |
