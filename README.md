@@ -225,6 +225,42 @@ powerbi/dashboard.pbix
 
 ---
 
+## Data Source
+
+This project uses official anonymised MOT testing data published by the Driver and Vehicle Standards Agency (DVSA) via data.gov.uk.
+
+For this project, the 2024 MOT testing data results were downloaded and used locally.
+
+The raw data files are not uploaded to this GitHub repository because the monthly MOT CSV files and ZIP file are large external data files.
+
+Users should download the official DVSA MOT testing data results for 2024 and place the extracted monthly CSV files inside `data/raw/`.
+
+The data source is documented in:
+
+`data/README_data_source.md`
+
+---
+
+## Limitations
+
+This project has the following limitations:
+
+- The analysis is based on a sample of 2024 MOT result data.
+- Raw MOT files are large and are not uploaded to GitHub.
+- Processed CSV files and the SQLite database are generated locally and are not uploaded to GitHub.
+- The model does not include detailed MOT defect item descriptions yet.
+- The model does not include service history, repair history, maintenance cost or driver behaviour.
+- The machine learning model should be treated as a risk indicator, not a replacement for expert vehicle inspection or formal maintenance decisions.
+- Findings are limited to the downloaded 2024 MOT result files, selected fields and project cleaning decisions.
+
+---
+
+## Current Project Status
+
+**Current stage:** Power BI dashboard, SQL analysis layer, business reports and MOT failure risk model completed.
+
+**Next stage:** Final GitHub review, career package, CV project entry, LinkedIn project description and interview preparation.
+
 ## Reports
 
 The project includes the following written reports:
