@@ -10,3 +10,4 @@ data/raw/*.dta
 data/raw/*.txt
 data/sample/*.csv
 data/processed/*.csv
+data/processed/*.db
