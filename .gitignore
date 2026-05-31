@@ -11,3 +11,4 @@ data/raw/*.txt
 data/sample/*.csv
 data/processed/*.csv
 data/processed/*.db
+data/processed/powerbi_views/*.csv
